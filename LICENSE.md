@@ -1,4 +1,4 @@
-# 
+# Lightweight Ollama scripts. Featuring user-friendly-interface and model-deployment — optimized for maximum performance and efficiency.
 
 
 
